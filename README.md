@@ -72,4 +72,5 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 This project is licensed under the MIT License.
 
+---
 Created with ❤️ by [THILAK2468](https://github.com/THILAK2468)
