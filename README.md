@@ -22,7 +22,7 @@ Travel Guide is a modern, AI-powered web application designed to help travelers 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/rajarajendra1103/Travel-Guide.git
+   git clone https://github.com/THILAK2468/Travel-Guide.git
    cd Travel-Guide
    ```
 
@@ -72,5 +72,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 This project is licensed under the MIT License.
 
----
-Created with ❤️ by [rajarajendra1103](https://github.com/rajarajendra1103)
+Created with ❤️ by [THILAK2468](https://github.com/THILAK2468)
